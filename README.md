@@ -12,8 +12,7 @@ Created an interactive dashboard using Power BI to reveal key trends in hospital
 1. Key Technologies and Skills
 2. Features
 3. Contributing
-4. License
-5. Contact
+
 
 <br />
 
@@ -21,7 +20,7 @@ Created an interactive dashboard using Power BI to reveal key trends in hospital
 - Power BI
 - Power Query Editor
 - Data Analysis Expressions (DAX)
-- Excel
+
 
 <br />
 
